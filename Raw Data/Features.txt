@@ -1,0 +1,42 @@
+Sex
+0 Male
+1 Female
+
+READ_FREQ: How often do you read for fun?
+1 Almost all the time (approx. 1-2 books a week)
+2 Now and then (approx. 1-2 books a month)
+3 Not very often (approx. 1-2 books in 6 months)
+4 Never
+
+READ_PREF: Choose your reading preference.
+1 I prefer reading printed books only
+2 I prefer printed books over eBooks but I still read eBooks
+3 I'm fine with both printed books and eBooks
+4 I prefer eBooks over printed books but I still read printed books
+5 I prefer reading eBooks only
+
+READ_TYPE: What kind of reader are you?
+0 Casual reader
+1 Professional reader (A kind of reader
+that writes reviews even if it's just for
+fun.)
+
+
+What genres do you enjoy reading?
+GENRE_ABM: Autobiography/Biography/Memoir
+GENRE_CHL: Chick Lit
+GENRE_CLC: Classic
+GENRE_CGN: Comic/Graphic Novel
+GENRE_CDM: Crime/Detective/Mystery
+GENRE_ESS: Essay
+GENRE_FLM: Fable/Fairy Tale/Folklore/Legend/Mythology
+GENRE_FAN: Fantasy
+GENRE_HFC: Historical Fiction
+GENRE_HOR: Horror
+GENRE_HUM: Humor
+GENRE_POE: Poetry
+GENRE_ROM: Romance
+GENRE_SCF: Science Fiction
+GENRE_SHS: Short Story
+GENRE_STH: Suspense/Thriller
+GENRE_NFC: Non-Fiction
